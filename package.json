@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-speech-recognition": "^3.9.1",
+    "react-speech-recognition-input": "^0.1.1"
+  }
+}
